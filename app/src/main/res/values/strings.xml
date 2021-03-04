@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotForgotAgain</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="create_acc">Create account</string>
+    <string name="add_task">Add task</string>
+    <string name="edit_task">Edit task</string>
+    <string name="tasks">Tasks</string>
+</resources>
